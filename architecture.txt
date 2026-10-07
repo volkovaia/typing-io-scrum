@@ -1,0 +1,1 @@
+Architecture and stack: React, Node.js, PostgreSQL
